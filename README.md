@@ -4,8 +4,8 @@ Bienvenidos al repositorio del curso **Fundamentos de Ciencias de Datos - Secci�
 
 ## Equipo docente
 
-Profesor: Adrián Soto Suárez (adrian.soto@uai.cl)
-Ayudante: Ornella Beretta (oberetta@alumnos.uai.cl)
+- Profesor: **Adrián Soto Suárez** (adrian.soto@uai.cl)
+- Ayudante: **Ornella Beretta** (oberetta@alumnos.uai.cl)
 
 ## Foro
 
