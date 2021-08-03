@@ -9,7 +9,7 @@ Bienvenidos al repositorio del curso **Fundamentos de Ciencias de Datos - Secci�
 
 ## Foro
 
-Puedes utilzar la página de [_Issues_](https://github.com/ING559/Syllabus-2020-2/issues) como foro para preguntas. Notar que las etiquetas ya se encuentran definidas.
+Puedes utilzar la página de [_Issues_](https://github.com/TICS314/Syllabus-2021-2-S8/issues) como foro para preguntas. Notar que las etiquetas ya se encuentran definidas.
 
 Tanto al publicar como comentar, debes atenerte a las **normas**, que consisten en:
 
