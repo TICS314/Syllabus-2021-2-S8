@@ -2,7 +2,7 @@
 
 Bienvenidos al repositorio del curso **Fundamentos de Ciencias de Datos - Sección 8**.
 
-## Equipo docente
+## Equipo docente de la sección
 
 - Profesor: **Adrián Soto Suárez** (adrian.soto@uai.cl)
 - Ayudante: **Ornella Beretta** (oberetta@alumnos.uai.cl)
