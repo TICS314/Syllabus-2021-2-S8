@@ -4,3 +4,4 @@ En el siguiente [link](https://alumnosuaicl-my.sharepoint.com/:f:/g/personal/adr
 
 - [Clase 01 - Introducción](https://youtu.be/p9f_pXDX1Kc)
 - [Clase 02 - Introducción al Manejo de Datos](https://youtu.be/m4JI9N2sb94)
+- [Clase 03 - Pandas (Parte 01)](https://youtu.be/wEwExECh5W4)
