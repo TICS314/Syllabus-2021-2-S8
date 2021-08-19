@@ -6,3 +6,4 @@ En el siguiente [link](https://alumnosuaicl-my.sharepoint.com/:f:/g/personal/adr
 - [Clase 02 - Introducción al Manejo de Datos](https://youtu.be/m4JI9N2sb94)
 - [Clase 03 - Pandas (Parte 01)](https://youtu.be/wEwExECh5W4)
 - [Clase 04 - Pandas (Parte 02)](https://youtu.be/5fLS8LOLMPQ)
+- [Clase 05 - Tipos de Datos y Binning](https://youtu.be/VLFtYvKOTm8)
