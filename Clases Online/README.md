@@ -7,3 +7,8 @@ En el siguiente [link](https://alumnosuaicl-my.sharepoint.com/:f:/g/personal/adr
 - [Clase 03 - Pandas (Parte 01)](https://youtu.be/wEwExECh5W4)
 - [Clase 04 - Pandas (Parte 02)](https://youtu.be/5fLS8LOLMPQ)
 - [Clase 05 - Tipos de Datos y Binning](https://youtu.be/VLFtYvKOTm8)
+- [Clase 06 - Escalamiento y EDA](https://youtu.be/22luRoA9ItQ)
+
+### Ayudantías
+
+- [Ayudantía 01 - Pandas](https://youtu.be/-yO3nrmDVWk)
