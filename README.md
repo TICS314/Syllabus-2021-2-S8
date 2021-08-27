@@ -7,6 +7,22 @@ Bienvenidos al repositorio del curso **Fundamentos de Ciencias de Datos - Secci�
 - Profesor: **Adrián Soto Suárez** (adrian.soto@uai.cl)
 - Ayudante: **Ornella Beretta** (oberetta@alumnos.uai.cl)
 
+## Tareas
+
+| Evaluación | Fecha de publicación | Fecha de entrega | Contenido |
+|---|---|---|---|
+| Tarea 01 | 12 de agosto | 26 de agosto | Introducción a Pandas |
+| Tarea 02 | 27 de agosto | 13 de septiembre | Visualización de Datos |
+| Tarea 03 | 19 de octubre | 02 de noviembre | Machine Learning |
+| Tarea 04 | 02 de noviembre | 16 de noviembre | Reducción de Dimensionalidad |
+
+## Pruebas grupales
+
+| Evaluación | Fecha de publicación | Fecha de entrega | 
+|---|---|---|
+| Prueba grupal 01 | 09 de septiembre | 04 de octubre | 
+| Prueba grupal 02 | 11 de noviembre | Fin de semestre (fecha exacta por definir |
+
 ## Foro
 
 Puedes utilzar la página de [_Issues_](https://github.com/TICS314/Syllabus-2021-2-S8/issues) como foro para preguntas. Notar que las etiquetas ya se encuentran definidas.
