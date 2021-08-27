@@ -9,6 +9,7 @@ En el siguiente [link](https://alumnosuaicl-my.sharepoint.com/:f:/g/personal/adr
 - [Clase 05 - Tipos de Datos y Binning](https://youtu.be/VLFtYvKOTm8)
 - [Clase 06 - Escalamiento y EDA](https://youtu.be/22luRoA9ItQ)
 - [Clase 07 - Introducción a la Visualización](https://youtu.be/0mjXTcP14mU)
+- [Clase 08 - Barplot e Histogramas](https://youtu.be/QQ7Yo5R1mqs)
 
 ### Ayudantías
 
