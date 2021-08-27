@@ -21,7 +21,7 @@ Bienvenidos al repositorio del curso **Fundamentos de Ciencias de Datos - Secci�
 | Evaluación | Fecha de publicación | Fecha de entrega | 
 |---|---|---|
 | Prueba grupal 01 | 09 de septiembre | 04 de octubre | 
-| Prueba grupal 02 | 11 de noviembre | Fin de semestre (fecha exacta por definir |
+| Prueba grupal 02 | 11 de noviembre | Fin de semestre (fecha exacta por definir) |
 
 ## Foro
 
