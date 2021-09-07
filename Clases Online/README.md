@@ -11,6 +11,7 @@ En el siguiente [link](https://alumnosuaicl-my.sharepoint.com/:f:/g/personal/adr
 - [Clase 07 - Introducción a la Visualización](https://youtu.be/0mjXTcP14mU)
 - [Clase 08 - Barplot e Histogramas](https://youtu.be/QQ7Yo5R1mqs)
 - [Clase 09 - Boxplot](https://youtu.be/-pBOXXgqeiM)
+- [Clase 10 - Scatter Plot](https://youtu.be/0cJGKUGshgI)
 
 ### Ayudantías
 
