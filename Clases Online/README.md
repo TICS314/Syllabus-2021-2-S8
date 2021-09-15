@@ -12,7 +12,9 @@ En el siguiente [link](https://alumnosuaicl-my.sharepoint.com/:f:/g/personal/adr
 - [Clase 08 - Barplot e Histogramas](https://youtu.be/QQ7Yo5R1mqs)
 - [Clase 09 - Boxplot](https://youtu.be/-pBOXXgqeiM)
 - [Clase 10 - Scatter Plot](https://youtu.be/0cJGKUGshgI)
+- [Clase 11 - Introducción Prueba 01](https://youtu.be/eyWxCAbFJvU)
 
 ### Ayudantías
 
 - [Ayudantía 01 - Pandas](https://youtu.be/-yO3nrmDVWk)
+- [Ayudantía 02 - Visualización](https://youtu.be/ZVtFSQbvJSk)
