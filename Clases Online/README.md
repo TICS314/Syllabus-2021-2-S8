@@ -15,6 +15,7 @@ En el siguiente [link](https://alumnosuaicl-my.sharepoint.com/:f:/g/personal/adr
 - [Clase 11 - Introducción Prueba 01](https://youtu.be/eyWxCAbFJvU)
 - [Clase 12 - Introducción a ML](https://youtu.be/bO0XimzWstY)
 - [Clase 13 - Regresión Lineal en Scikit Learn](https://youtu.be/9u39wIdGC6o)
+- [Clase 14 - Introducción a Clasificación](https://youtu.be/gKFO3HVKr-E)
 
 ### Ayudantías
 
