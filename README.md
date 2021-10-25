@@ -13,8 +13,8 @@ Bienvenidos al repositorio del curso **Fundamentos de Ciencias de Datos - Secci�
 |---|---|---|---|
 | Tarea 01 | 12 de agosto | 26 de agosto | Introducción a Pandas |
 | Tarea 02 | 27 de agosto | 13 de septiembre | Visualización de Datos |
-| Tarea 03 | 19 de octubre | 02 de noviembre | Machine Learning |
-| Tarea 04 | 02 de noviembre | 16 de noviembre | Reducción de Dimensionalidad |
+| Tarea 03 | 19 de octubre | 03 de noviembre | Machine Learning |
+| Tarea 04 | 04 de noviembre | 22 de noviembre | Reducción de Dimensionalidad |
 
 ## Pruebas grupales
 
