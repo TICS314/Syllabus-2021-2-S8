@@ -23,3 +23,4 @@ En el siguiente [link](https://alumnosuaicl-my.sharepoint.com/:f:/g/personal/adr
 
 - [Ayudantía 01 - Pandas](https://youtu.be/-yO3nrmDVWk)
 - [Ayudantía 02 - Visualización](https://youtu.be/ZVtFSQbvJSk)
+- [Ayudantía 03 - ML](https://youtu.be/BblQtekzC-c)
