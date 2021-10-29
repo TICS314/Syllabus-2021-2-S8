@@ -18,6 +18,8 @@ En el siguiente [link](https://alumnosuaicl-my.sharepoint.com/:f:/g/personal/adr
 - [Clase 14 - Introducción a Clasificación](https://youtu.be/gKFO3HVKr-E)
 - [Clase 15 - Medidas de Desempeño de un Clasificador](https://youtu.be/-O3qDeToGJ4)
 - [Clase 16 - Cierre Clasificación](https://youtu.be/-FrP-EZT1po)
+- [Clase 17 - Reducción de Dimensionalidad](https://youtu.be/pVv4JP4Z9CMS)
+- [Clase 18 - PCA](https://youtu.be/a64OmvrGDIo)
 
 ### Ayudantías
 
