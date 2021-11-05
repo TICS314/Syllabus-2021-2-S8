@@ -20,6 +20,8 @@ En el siguiente [link](https://alumnosuaicl-my.sharepoint.com/:f:/g/personal/adr
 - [Clase 16 - Cierre Clasificación](https://youtu.be/-FrP-EZT1po)
 - [Clase 17 - Reducción de Dimensionalidad](https://youtu.be/pVv4JP4Z9CMS)
 - [Clase 18 - PCA](https://youtu.be/a64OmvrGDIo)
+- [Clase 19 - Reducción de Dimensionalidad y Clustering](https://youtu.be/k7Dm8yYKjx0)
+- [Clase 20 - Clustering y Ejemplo de Reducción de Dimensionalidad 🐰](https://youtu.be/iCJx1a2YmTs)
 
 ### Ayudantías
 
