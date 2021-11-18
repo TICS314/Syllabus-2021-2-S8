@@ -24,6 +24,7 @@ En el siguiente [link](https://alumnosuaicl-my.sharepoint.com/:f:/g/personal/adr
 - [Clase 20 - Clustering y Ejemplo de Reducción de Dimensionalidad 🐰](https://youtu.be/iCJx1a2YmTs)
 - [Clase 21 - Tarea 04 y Outliers](https://youtu.be/2dOKmoBH0uk)
 - [Clase 22 - Outliers y Prueba 02](https://youtu.be/dYl-wQwZXvA)
+- [Clase 23 - Final](https://youtu.be/agFfl5wojQg)
 
 ### Ayudantías
 
@@ -31,3 +32,4 @@ En el siguiente [link](https://alumnosuaicl-my.sharepoint.com/:f:/g/personal/adr
 - [Ayudantía 02 - Visualización](https://youtu.be/ZVtFSQbvJSk)
 - [Ayudantía 03 - ML](https://youtu.be/BblQtekzC-c)
 - [Ayudantía Extra - One Hot Encoding](https://youtu.be/7VNXqpYAiXI)
+- [Ayudantía 04 - PCA](https://www.youtube.com/watch?v=FYEZvkyqK28)
